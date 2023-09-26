@@ -1,0 +1,17 @@
+C:\Users\hando\OneDrive\Documents\College\PBKK\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\WebcamCaptureApp.exe.config
+C:\Users\hando\OneDrive\Documents\College\PBKK\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\WebcamCaptureApp.exe
+C:\Users\hando\OneDrive\Documents\College\PBKK\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\WebcamCaptureApp.pdb
+C:\Users\hando\OneDrive\Documents\College\PBKK\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\AForge.dll
+C:\Users\hando\OneDrive\Documents\College\PBKK\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\hando\OneDrive\Documents\College\PBKK\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\AForge.Video.dll
+C:\Users\hando\OneDrive\Documents\College\PBKK\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\AForge.xml
+C:\Users\hando\OneDrive\Documents\College\PBKK\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\AForge.Video.xml
+C:\Users\hando\OneDrive\Documents\College\PBKK\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\hando\OneDrive\Documents\College\PBKK\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.csproj.AssemblyReference.cache
+C:\Users\hando\OneDrive\Documents\College\PBKK\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.Form1.resources
+C:\Users\hando\OneDrive\Documents\College\PBKK\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.Properties.Resources.resources
+C:\Users\hando\OneDrive\Documents\College\PBKK\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.csproj.GenerateResource.cache
+C:\Users\hando\OneDrive\Documents\College\PBKK\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.csproj.CoreCompileInputs.cache
+C:\Users\hando\OneDrive\Documents\College\PBKK\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.csproj.CopyComplete
+C:\Users\hando\OneDrive\Documents\College\PBKK\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.exe
+C:\Users\hando\OneDrive\Documents\College\PBKK\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.pdb
